@@ -1,0 +1,36 @@
+com/example/scanapp/Mod.java
+ com.example.scanapp.Mod
+com/example/scanapp/HomeActivity.java
+ com.example.scanapp.HomeActivity
+com/example/scanapp/Adap.java
+ com.example.scanapp.Adap
+ com.example.scanapp.Adap$1
+com/example/scanapp/DBHelper.java
+ com.example.scanapp.DBHelper
+com/example/scanapp/ListItem.java
+ com.example.scanapp.ListItem
+com/example/scanapp/RecActivity.java
+ com.example.scanapp.RecActivity
+com/example/scanapp/BuildConfig.java
+ com.example.scanapp.BuildConfig
+com/example/scanapp/MainActivity.java
+ com.example.scanapp.MainActivity
+ com.example.scanapp.MainActivity$1
+ com.example.scanapp.MainActivity$2
+ com.example.scanapp.MainActivity$3
+com/example/scanapp/MyAdapter.java
+ com.example.scanapp.MyAdapter
+ com.example.scanapp.MyAdapter$ViewHolder
+com/example/scanapp/Views.java
+ com.example.scanapp.Views
+com/example/scanapp/RegActivity.java
+ com.example.scanapp.RegActivity
+ com.example.scanapp.RegActivity$1
+ com.example.scanapp.RegActivity$2
+com/example/scanapp/LoginActivity.java
+ com.example.scanapp.LoginActivity
+ com.example.scanapp.LoginActivity$1
+com/example/scanapp/SecActivity.java
+ com.example.scanapp.SecActivity
+com/example/scanapp/FirstActivity.java
+ com.example.scanapp.FirstActivity

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_wordpress.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/wordpress.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_nodejs.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/nodejs.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-mdpi_no_result.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-mdpi/no_result.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_samsung.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/samsung.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_magento.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/magento.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_news.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxhdpi/icon_news.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-mdpi_splash_icon.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-mdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_rec.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_rec.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_iphone.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/iphone.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_login1.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/login1.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_icon_news.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/icon_news.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_sec.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_sec.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_cpp.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/cpp.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_pods.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/pods.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_first.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_first.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-hdpi_no_result.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-hdpi/no_result.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-hdpi_oops.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-hdpi/oops.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_news.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xhdpi/icon_news.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_b6.jpg.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/b6.jpg"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_reg.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_reg.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_php.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/php.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_etstyle.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/etstyle.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_dotnet.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/dotnet.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_singlerow.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/singlerow.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-mdpi_oops.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-mdpi/oops.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_cp.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/cp.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_home.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_mac.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/mac.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_splash_icon.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxhdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_shopify.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/shopify.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_oops.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xhdpi/oops.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_splash_icon.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_news.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-mdpi/icon_news.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_no_result.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxhdpi/no_result.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_oops.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/oops.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_python.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/python.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_ps5.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/ps5.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_no_result.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/no_result.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_no_result.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xhdpi/no_result.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_oops.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxhdpi/oops.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_news.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-hdpi/icon_news.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-hdpi_splash_icon.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-hdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_splash_icon.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xhdpi/splash_icon.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable_tech.jpeg.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable/tech.jpeg"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_angular.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/angular.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_java.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/drawable-xxxhdpi/java.png"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/ScanApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/AndroidStudioProjects/ScanApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
